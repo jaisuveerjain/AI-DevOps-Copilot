@@ -1,4 +1,7 @@
 # AI-DevOps-Copilot
 LLM Powered DevOps Assistant
 
-Instructions Below
+Instructions Below:
+
+Required Plugins:
+
