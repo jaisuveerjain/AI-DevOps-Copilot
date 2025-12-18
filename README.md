@@ -3,7 +3,7 @@ LLM Powered DevOps Assistant
 
 Instructions Below:
 
-Required Plugins:
+Requirements:
 
 Usage:
 
