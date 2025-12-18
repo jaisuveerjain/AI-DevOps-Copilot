@@ -5,3 +5,6 @@ Instructions Below:
 
 Required Plugins:
 
+Usage:
+
+Credits:
